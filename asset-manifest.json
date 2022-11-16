@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/glmsr12/recipe-land-app/static/css/main.04dc3475.css",
+    "main.js": "/glmsr12/recipe-land-app/static/js/main.76c270dc.js",
+    "index.html": "/glmsr12/recipe-land-app/index.html",
+    "main.04dc3475.css.map": "/glmsr12/recipe-land-app/static/css/main.04dc3475.css.map",
+    "main.76c270dc.js.map": "/glmsr12/recipe-land-app/static/js/main.76c270dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04dc3475.css",
+    "static/js/main.76c270dc.js"
+  ]
+}
