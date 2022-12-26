@@ -55,7 +55,7 @@ https://www.themealdb.com/api.php
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1728" alt="foodland" src="https://user-images.githubusercontent.com/91402082/209493700-0b020147-690e-4a6a-9384-a8d3abeba353.png">
 
 
 ## 🔗 Links
